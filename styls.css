@@ -1,0 +1,123 @@
+body{background-color:#F3EFEF
+
+
+;margin-left: 100px;margin-right: 100px;
+
+}
+h1{font-family:'Bellefair',serif; font-size: 55px;letter-spacing: 1px;
+font-weight: bold;; font-style: normal;color: #5F8781
+
+  ;text-align: center;text-shadow: grey;
+}
+h2{font-family:'Bellefair',serif; font-size: 35px;letter-spacing: 1px;
+font-weight: bold;; font-style: normal;color: #5F8781
+
+  ;text-align: center;text-shadow: grey;}
+
+.logo{width: 104px;height: 104px;
+  border-radius: 52px;margin-top: 0px;
+  margin-left: 450px;margin-right: 450px;
+
+ float:left;padding color: grey;display: block;border-style:dotted;border-color:  #5F8781;
+background: url(black.png) no-repeat;
+padding: 10px 20px 7px 10px;}
+
+.head{padding-top: 5px;
+}
+
+.middle1{padding-top: 50px;padding-right: 250px;padding-left: 15px;font-family:'Secular One' ,sans-serif;;display: inline-block;
+  font-weight: lighter;font-size: 18px;color: #708098;text-shadow: 0.5px 1px 1px white;letter-spacing: 1px
+
+  }
+
+  .books{width: 180px;height: 140px;margin-top: 50px;
+
+    border-radius: 20px;
+ ;display: inline;position: relative;
+     }
+
+.middle2{padding-top: 50px;padding-left:35px;padding-right:25px;font-family:'Secular One' ,sans-serif;;display: inline-block;
+  font-weight: lighter;font-size: 18px;color: #708098;text-shadow: 0.5px 1px 1px white;letter-spacing: 1px
+
+  }
+
+.closedbook{width: 180px;height: 140px;
+  border-radius: 20px;margin-top: 50px;
+
+display: inline;position: relative;}
+
+.middle3{padding-top: 50px;padding-left:0px ;padding-right:20px; font-family: 'Secular One' ,sans-serif;;display: inline-block;
+  font-weight: lighter;font-size: 18px;color: #708098;font-style: none;text-shadow: 0.5px 1px 1px white;letter-spacing: 1px
+}
+
+.newspaper{width: 180px;height: 140px;display: inline;margin-top: 50px;
+  border-radius: 20px;position: relative;
+
+
+ }
+a{color: #708098;text-decoration: none;}
+
+ul{background-color: white; font-family:'Secular One' ,sans-serif;
+font-size: 12px; font-weight: lighter;
+width: 250px;height: 20px;word-spacing: 7px;border-style: solid;border-color:  #5F8781
+
+}
+
+ li {
+   display:inline;border-left: 1px solid  #5F8781
+ }
+
+
+.navbar{padding-top: 0px;padding-bottom: 0px;padding-left: 0px;padding-right: 0px
+;font-family: 'Secular One',serif;
+ font-weight: lighter;font-size: 13px;color: #708098;}
+
+.bottom{font-style: italic;float: left;font-size: 12px;font-family: sans-serif;padding-top: 400px;color: #5F8781}
+.production{font-family: 'Secular One',serif;padding-left: 200px;padding-right: 200px;padding-top: 40px;
+ font-weight: lighter;font-size: 16px;color: #708098;word-spacing: 5px}
+
+ .pro{width: 600px;height: 300px;border-radius: 50%;padding-right: 270px;padding-top: 50px}
+
+ .pub{font-family: 'Secular One',serif;padding-left: 200px;padding-right: 200px;padding-top: 40px;
+  font-weight: lighter;font-size: 16px;color: #708098;word-spacing: 5px
+ }
+
+ .open{width: 600px;height: 300px;border-radius: 50%;padding-right: 270px;padding-top: 30px}
+
+.market{font-family: 'Secular One',serif;padding-left: 200px;padding-right: 200px;padding-top: 40px;
+ font-weight: lighter;font-size: 16px;color: #708098;word-spacing: 5px}
+
+.mar{width: 600px;height: 300px;border-radius: 50%;padding-right: 80px;padding-top: 60px}
+
+.about{font-family: 'Secular One',serif;padding-left: 200px;padding-right: 200px;padding-top: 40px;
+ font-weight: lighter;font-size: 16px;color: #708098;word-spacing: 5px}
+
+.ab{width: 600px;height: 300px;border-radius: 50%;padding-right: 80px;padding-top: 60px}
+
+.dvir{width: 190px;height: 150px;padding-right: 100px
+}
+
+.mous{width: 190px;height: 150px}
+
+.ahavat{width: 150px;height: 190px}
+
+.erez{width: 150px;height: 190px}
+
+.hahodaya{width: 150px;height: 190px}
+
+.halel{width: 150px;height: 190px}
+
+.mashiach{width: 190px;height: 150px;padding-left: 150px}
+
+.moyal{width: 150px;height: 190px;padding-right: 100px}
+
+.neder{width: 150px;height: 190px}
+
+.ran{width: 190px;height: 150px}
+
+.neshama1{width: 150px;height: 190px}
+.neshama2{width: 150px;height: 190px;padding-left: 150px}
+.neshama3{width: 150px;height: 190px;padding-right: 100px}
+
+.reco{width: 900px;height: 500;margin-right: 80px}
+.contactus{width: 900px;height: 500;margin-right: 500px;margin-top: 80px;font-size: 15PX;font-family: sans-serif;font-weight: bold;}
