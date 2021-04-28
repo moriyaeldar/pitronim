@@ -1,0 +1,187 @@
+/* For desktop: */
+@media screen and (max-width: 992px) {
+.col-{width: 50%;}
+}
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  [class*="col-"] {
+    width: 100%;
+  }
+  /*main features*/
+}
+body{
+text-align: center;
+background-color: white;
+}
+h1{font-family:'Bellefair',serif; font-size: 50px;letter-spacing: 1px;
+font-weight: lighter;; font-style: normal;color: #5F8781
+
+  ;text-align: center;text-shadow: grey;margin-left: 50px
+}
+h2{font-family:'Bellefair',serif; font-size: 35px;letter-spacing: 1px;
+font-weight: bold;; font-style: normal;color: #5F8781
+
+  ;text-align: center;text-shadow: grey;}
+
+h3{font-family:'Bellefair',serif; font-size: 28px;letter-spacing: 1px;
+font-weight: bold;; font-style: normal;color:#393939
+
+  ;text-align: center;text-shadow: grey;}
+
+p{font-family:'Bellefair',serif; font-size: 25px;font-weight: bold}
+
+h6{font-family:'Bellefair',serif; font-size: 15px;}
+
+
+
+/*navbar*/
+.navbar{
+font-family: 'Secular One',serif;
+font-size: 13px;color: #638B9A;
+bottom: 0;
+  display: flex;
+  flex: 1 0 auto;
+  align-items: center;
+}
+
+a{color:#aca281;text-decoration: none;
+  padding: 10px 10px 10px 10px;
+text-align: center;flex: 1
+}
+
+a:hover{background-color:#B4CCD3
+;color:black
+}
+
+ul{
+
+ font-family:'Secular One' ,sans-serif;
+font-size: 18px;
+width: 1050px;height: 25px;
+text-decoration: none;
+}
+
+ul, li, li a {
+ display: flex;
+ flex: 1;
+}
+
+li a {
+  flex: 1;
+  align-items: center;
+  justify-content: center;
+  padding-left: 1em;
+  padding-right: 1em;
+  border-right: 1px solid black;
+
+}
+
+li:first-child a {
+  border: none;
+}
+
+/*homepage features*/
+.logo{width: 110px;height: 110px;
+  border-radius: 55px;margin-top: 0px;
+  margin-left: 500px;margin-right: 500px;
+ padding color: grey;display: block;border-style:dotted;border-color:  #5F8781;
+background: url(black.png) no-repeat;
+padding: 10px 10px 10px 10px;}
+
+.head{display: inline-block;padding-top: 50px}
+.middle1{font-family:'Secular One' ,sans-serif;display: inline-flex;
+  font-weight: lighter;font-size: 18px;color: #708098;
+  text-shadow: 0.5px 1px 1px white;letter-spacing: 1px;
+  align-items: baseline;
+
+  }
+
+  .books{width: 180px;height: 140px;margin-top: 50px;
+    border-radius: 20px;
+ ;display: inline;
+     }
+
+.middle2{padding-top: 50px;padding-left:15px;padding-right:15px;
+  font-family:'Secular One' ,sans-serif;;display: inline-flex;
+  font-weight: lighter;font-size: 18px;color: #708098;
+  text-shadow: 0.5px 1px 1px white;letter-spacing: 1px;
+  align-items: baseline;
+  }
+
+.closedbook{width: 180px;height: 140px;
+  border-radius: 20px;margin-top: 50px;
+
+display: inline;}
+
+.middle3{padding-top: 50px; ;padding-right:15px;
+   font-family: 'Secular One' ,sans-serif;;display: inline-flex;
+  font-weight: lighter;font-size: 18px;color: #708098;
+  font-style: none;text-shadow: 0.5px 1px 1px white;letter-spacing: 1px;
+  align-items: baseline;
+}
+
+.newspaper{width: 180px;height: 140px;display: inline;margin-top: 50px;
+  border-radius: 20px;
+ }
+
+
+.bottom{font-style: italic;font-size: 7px;font-family: sans-serif;padding-top: 100px;color: #5F8781}
+
+/*specific features*/
+
+.production{font-family: 'Secular One',serif;padding-left: 200px;padding-right: 200px;padding-top: 40px;
+ font-weight: lighter;font-size: 16px;color: #708098;word-spacing: 5px}
+
+ .pro{width: 600px;height: 300px;border-radius: 50%;;padding-top: 50px}
+
+ .pub{font-family: 'Secular One',serif;padding-left: 200px;padding-right: 200px;padding-top: 40px;
+  font-weight: lighter;font-size: 16px;color: #708098;word-spacing: 5px
+ }
+
+ .open{width: 600px;height: 300px;border-radius: 50%;padding-right: 270px;padding-top: 30px}
+
+.market{font-family: 'Secular One',serif;padding-left: 200px;padding-right: 200px;padding-top: 40px;
+ font-weight: lighter;font-size: 16px;color: #708098;word-spacing: 5px}
+
+.mar{width: 500px;height: 300px;border-radius: 50%;padding-right: 80px;padding-top: 60px}
+
+.about{font-family: 'Secular One',serif;padding-left: 200px;padding-right: 200px;padding-top: 40px;
+ font-weight: lighter;font-size: 16px;color: #708098;word-spacing: 5px}
+
+.ab{width: 600px;height: 300px;border-radius: 50%;padding-right: 80px;padding-top: 60px}
+
+.dvir{width: 290px;height: 250px;
+}
+
+.mous{width: 290px;height:250px}
+
+.ahavat{width: 250px;height: 290px;}
+
+.erez{width: 250px;height: 290px}
+
+.hahodaya{width: 250px;height: 290px}
+
+.halel{width: 250px;height: 290px}
+
+.mashiach{width: 290px;height: 250px;}
+
+.moyal{width: 250px;height: 290px;}
+
+.neder{width: 250px;height: 290px}
+
+.ran{width: 290px;height: 250px}
+
+.neshama1{width: 250px;height: 290px}
+.neshama2{width: 250px;height: 290px;}
+.neshama3{width: 250px;height: 290px;}
+.erev{width: 250px;height: 290px;}
+.pua{width: 250px;height: 290px;}
+.bar{display: inline;width: 200px;height: 100px}
+.dabri{display: inline;width: 200px;height: 100px}
+.mem{display: inline;width: 200px;height: 150px}
+.puah{display: inline;width: 200px;height: 100px}
+.sulamot{display: inline;width: 200px;height: 100px}
+.bash{display: inline;width: 200px;height: 150px}
+.reco{width: 900px;height: 500;margin-right: 80px}
+.contactus{width: 900px;height: 500;margin-right: 500px;margin-top: 80px;font-size: 15PX;font-family: sans-serif;font-weight: bold;}
